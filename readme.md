@@ -1,4 +1,4 @@
-# DataScienceFromScratch
+# mmJoelGrusStudyhub
 Summary of python fundamentals via [data science from scratch](https://github.com/joelgrus/data-science-from-scratch)
 - functions
 - strings
